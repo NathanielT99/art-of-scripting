@@ -1,0 +1,10 @@
+refs/
+reads/
+salmon/
+work/
+bam/
+heatmap.pdf
+*tar.gz
+results.csv
+idx/
+design.csv
